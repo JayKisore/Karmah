@@ -1,0 +1,14 @@
+{
+  "latestVersion": "1.5.0082",
+  "latestVersionCode": 81,
+  "disableRequest": {
+    "below": 79,
+    "on": "40 20 12"
+  },
+  "url": "https://play.google.com/store/apps/details?id=com.jaykisore.iconpack.karmah",
+  "releaseNotes": [
+    "This is the text which will be shown on Update",
+    "Another Release Note"
+    "You can Use <b>Text</b> <i>Formatting</i> <u>Too</u>"
+  ]
+}
