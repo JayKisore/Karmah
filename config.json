@@ -1,9 +1,9 @@
 {
   "latestVersion": "1.5.0082",
-  "latestVersionCode": 81,
+  "latestVersionCode": 82,
   "disableRequest": {
     "below": 79,
-    "on": "40 20 12"
+    "on": "40 20 56"
   },
   "url": "https://play.google.com/store/apps/details?id=com.jaykisore.iconpack.karmah",
   "releaseNotes": [
