@@ -1,15 +1,14 @@
 {
-  "latestVersion": "1.5.0081",
-  "latestVersionCode": 81,
-  "disableRequest": {
-    "below": 80,
-    "on": "40 20 353"
-  },
-{ 
-  "url": "https://play.google.com/store/apps/details?id=com.jaykisore.iconpack.karmah",
-  "releaseNotes": [
-    "This is the text which will be shown on Update",
-    "Another Release Note"
-    "You can Use <b>Text</b> <i>Formatting</i> <u>Too</u>"
-  ]
+	"latestVersion": "1.5.0081",
+	"latestVersionCode": 81,
+	"disableRequest": {
+		"below": 80,
+		"on": "40 20 353"
+	},
+	"url": "https://play.google.com/store/apps/details?id=com.jaykisore.iconpack.karmah",
+	"releaseNotes": [
+		"This is the text which will be shown on Update",
+		"Another Release Note",
+		"You can Use <b>Text</b> <i>Formatting</i> <u>Too</u>"
+	]
 }
